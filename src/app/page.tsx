@@ -1,5 +1,5 @@
-import DesignsAdminSimple from "../components/DesignsAdmin";
+import DesignsAdminWorking from "../components/DesignsAdminWorking";
 
 export default function Home() {
-  return <DesignsAdminSimple />;
+  return <DesignsAdminWorking />;
 }
